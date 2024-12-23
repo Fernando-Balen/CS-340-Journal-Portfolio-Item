@@ -22,3 +22,10 @@ Set up the Environment: After importing the necessary Python packages, I structu
 
 **Challenges and Solutions**
 One of the challenges I faced was making sure all the different dashboard components, the filters, data table, and visualizations were communicating and updating correctly. To overcome this I took a simple approach: separating the data manipulation, view logic, and controller functionality into different components, this made it easier to manage the interactions. I also made good use of Dash's already built in functions like the call callback system to match the user’s inputs to the corresponding data updates and GUI changes.
+
+
+**Maintaining Readability and Adaptability:** Clear documentation, modular design, and meaningful names make code easier to manage. The CRUD module connected widgets to the database efficiently and can be reused in future projects.
+
+**Approach to Problem Solving:** I break tasks into smaller steps and design modular solutions. For the project, I focused on meeting project needs with user-friendly, scalable designs.
+
+**Role of Computer Scientists:** They solve problems and improve workflows with technology, helping companies like this project work more efficiently.
